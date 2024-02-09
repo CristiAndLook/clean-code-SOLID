@@ -12,7 +12,7 @@
     "noEmit": true,
     "noUnusedLocals": false,
     "noUnusedParameters": true,
-    "noImplicitReturns": true,
+    "noImplicitReturns": true
   },
-  "include": ["src"]
+  "include": ["src"] // Update the path to include the missing file
 }
