@@ -47,4 +47,4 @@
 
     console.log({ nameField });
 
-})()
+})() // principle of single responsibility
